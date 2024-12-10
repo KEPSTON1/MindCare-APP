@@ -14,9 +14,8 @@ introducing our application is Mindcare. our application provides a questionnair
 | C014B4KY2221   | Komang Bayu Lobi Hartawan     | Universitas Udayana     |Cloud Computing|
 | C014B4KX3341   | Ni Putu Adelia Candra Swari     | Universitas Udayana     |Cloud Computing|
 
-
-
 ## Technology, Library and Resources
+This Technology, Library and Resources that we use to develop Mindcare App
 ### Machine Learning
 - Google Colab
 - Dataset from Quisioner
@@ -38,7 +37,6 @@ introducing our application is Mindcare. our application provides a questionnair
 - Kotlin
 - Android Studio
 - Retrofit
-
 
 ## Repositories
 This our repositories to help us develop this application.
