@@ -1,1 +1,38 @@
 # MindCare-APP
+
+
+
+## Know Your Mental Health
+introducing our application is Mindcare. our application provides a questionnaire that can help users know how their mental health is. by knowing their mental health, they can find experts at the nearest location to consult related to mental health to prevent unwanted things. 
+## Our Team
+| ID-Bangkit   |  Name   |  University | Learning Path |
+|-----------|------------|--------------|---------------|
+| M211B4KY0393   | Aliffa Agnur     | Universitas Indraprasta PGRI     |Machine Learning|
+| M284B4KY1880   | I Putu Hananda Weldy Nugraha    | Universitas Negeri Surabaya     |Machine Learning|
+| M014B4KX3346   | Ni Putu Mirah Kartika Cahyani     | Universitas Udayana     |Machine Learning|
+| A284B4KY1947   | Ilham Saputra     | Universitas Negeri Surabaya     |Mobile Development|
+| C014B4KY2221   | Komang Bayu Lobi Hartawan     | Universitas Udayana     |Cloud Computing|
+| C014B4KX3341   | Ni Putu Adelia Candra Swari     | Universitas Udayana     |Cloud Computing|
+
+
+
+## Technology, Library and Resources
+### Machine Learning
+- Google Colab
+- Dataset from Quisioner
+- Tensorflow
+
+### Cloud Computing
+- Google Cloud Platform
+- Express.js
+- App Engine
+- Cloud Run
+- Cloud SQL
+- Flask
+
+### Mobile Development
+- Kotlin
+- 
+
+
+## Repositories
