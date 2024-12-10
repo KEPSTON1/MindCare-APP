@@ -21,6 +21,9 @@ introducing our application is Mindcare. our application provides a questionnair
 - Google Colab
 - Dataset from Quisioner
 - Tensorflow
+- Pandas
+- Numpy
+- Matplotlib
 
 ### Cloud Computing
 - Google Cloud Platform
@@ -29,10 +32,12 @@ introducing our application is Mindcare. our application provides a questionnair
 - Cloud Run
 - Cloud SQL
 - Flask
+- Node.js
 
 ### Mobile Development
 - Kotlin
-- 
+- Android Studio
+- Retrofit
 
 
 ## Repositories
