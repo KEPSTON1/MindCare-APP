@@ -4,7 +4,7 @@
 
 ## Know Your Mental Health
 introducing our application is Mindcare. our application provides a questionnaire that can help users know how their mental health is. by knowing their mental health, they can find experts at the nearest location to consult related to mental health to prevent unwanted things. 
-## Our Team
+## Our Team C242-PS506
 | ID-Bangkit   |  Name   |  University | Learning Path |
 |-----------|------------|--------------|---------------|
 | M211B4KY0393   | Aliffa Agnur     | Universitas Indraprasta PGRI     |Machine Learning|
