@@ -1,6 +1,6 @@
 # MindCare-APP
 
-![Teks Alternatif](Mindcare.png)
+![Teks Alternatif](New.png)
 
 ## Know Your Mental Health
 introducing our application is Mindcare. our application provides a questionnaire that can help users know how their mental health is. by knowing their mental health, they can find experts at the nearest location to consult related to mental health to prevent unwanted things. 
